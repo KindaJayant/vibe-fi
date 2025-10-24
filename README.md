@@ -129,14 +129,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-### 🖥️ Web Interface
+### 🖥️ Web Interface  
+![VibeFI Ticket Classifier Interface](https://i.postimg.cc/HV46qkKj/Screenshot-420.png)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c99ef295-fef1-4557-a4a3-73fed1aa937b" />
-
-
-### ☁️ MongoDB Atlas
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5a93134-255e-40b6-9837-e9ef7ac6c900" />
+### ☁️ MongoDB Atlas  
+![MongoDB Atlas ticketdecisions Collection](https://i.postimg.cc/GHJXWmNk/Screenshot-421.png)
 
 ---
 
