@@ -1,0 +1,17 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; padding: 24px; background: #0b0f14; color: #e6edf3; }
+.wrap { max-width: 860px; margin: 0 auto; }
+h1 { margin-bottom: 8px; }
+.muted { color: #9aa4af; margin-top: 0; }
+.card { background: #0f1621; border: 1px solid #1f2a37; border-radius: 12px; padding: 16px; margin-top: 16px; }
+label { display: block; margin: 12px 0; }
+select, textarea, input { width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #263244; background: #0b111a; color: #e6edf3; }
+button { padding: 10px 14px; border-radius: 10px; border: 1px solid #2b3a4f; background: #111927; color: #e6edf3; cursor: pointer; }
+button:disabled { opacity: .7; cursor: not-allowed; }
+.samples { display: flex; gap: 8px; margin-bottom: 8px; }
+.result h2 { display: flex; align-items: center; gap: 10px; }
+.pill { padding: 4px 8px; border-radius: 999px; font-size: 12px; text-transform: uppercase; letter-spacing: .5px; }
+.pill.tech { background: #1f2937; border: 1px solid #445; }
+.pill.ops { background: #192a1f; border: 1px solid #3b5; }
+.error { background: #2a1214; border: 1px solid #a33; padding: 10px; border-radius: 8px; margin-top: 14px; }
+.hits { margin-top: 10px; color: #9aa4af; display: grid; gap: 4px; }
