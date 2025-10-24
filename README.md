@@ -1,10 +1,3 @@
-Perfect 🔥 Jayant — since your repo is now live and fully functional, here’s a **final polished `README.md`** you can directly paste into your GitHub root.
-
-This version includes a clean placeholder section for screenshots and uses a professional, submission-ready tone specifically tailored for **VibeFI AI Step-2 Challenge**.
-
----
-
-````md
 # VibeFI AI Step-2 Challenge — MERN Ticket Classifier  
 **Developer:** Jayant Singh Bisht  
 
