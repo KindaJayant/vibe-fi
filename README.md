@@ -1,4 +1,4 @@
-````md
+
 # VibeFI AI Step-2 Challenge — MERN Ticket Classifier  
 **Developer:** Jayant Singh Bisht  
 
@@ -31,7 +31,6 @@ Develop a service that can receive a banking support ticket, decide whether it r
     "next_actions": ["Collect logs", "Generate AI patch", ...],
     "hits": { "tech": ["error","api"], "ops": [] }
   }
-````
 
 * Persists each decision in MongoDB Atlas (`ticketdecisions` collection)
 * Includes ready sample buttons (Tech / Ops) for quick testing
