@@ -1,3 +1,4 @@
+````md
 # VibeFI AI Step-2 Challenge — MERN Ticket Classifier  
 **Developer:** Jayant Singh Bisht  
 
@@ -77,8 +78,6 @@ npm run dev
 
 ➡️ Runs on **[http://localhost:4000](http://localhost:4000)**
 
----
-
 ### 2️⃣ Frontend
 
 ```bash
@@ -88,8 +87,6 @@ npm run dev
 ```
 
 ➡️ Runs on **[http://localhost:5173](http://localhost:5173)**
-
----
 
 ### 3️⃣ Health Check
 
@@ -129,10 +126,12 @@ npm run dev
 
 ## 📸 Screenshots
 
-### 🖥️ Web Interface  
+### 🖥️ Web Interface
+
 ![VibeFI Ticket Classifier Interface](https://i.postimg.cc/HV46qkKj/Screenshot-420.png)
 
-### ☁️ MongoDB Atlas  
+### ☁️ MongoDB Atlas
+
 ![MongoDB Atlas ticketdecisions Collection](https://i.postimg.cc/GHJXWmNk/Screenshot-421.png)
 
 ---
@@ -199,4 +198,4 @@ A fully working **MERN micro-service** demonstrating:
 **Repository:** [https://github.com/KindaJayant/vibe-fi](https://github.com/KindaJayant/vibe-fi)
 
 ```
-
+```
